@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Photon</string>
+    <string name="values">Enter the no of rows and columns of the Matrix</string>
+
+</resources>
